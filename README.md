@@ -29,8 +29,3 @@
 <a href="https://github.com/PriyanshuGangwar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyanshuGangwar" />
 </a>
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuGangwar&repo=Robotcleaner)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGangwar)](https://github.com/PriyanshuGangwar/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGangwar)
