@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshugangwar&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshugangwar" /> </p>
 
-- 📝 I’m currently studying in **Indian Institute of Engineering Science and Technology, Shibpur**
+- 💼 Working as **Ruby on Rails** backend developer in **Anchanto, Pune**.
+
+- 📝 Studied in **Indian Institute of Engineering Science and Technology, Shibpur**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyanshuGangwar](https://github.com/PriyanshuGangwar)
 
